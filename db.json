@@ -1,12 +1,6 @@
 {
   "appId": [
-    {
-      "id": "26952afdc07a46f49cac000640",
-      "success": "true"
-    },
-    {
-      "id": "afdc07a46f49cac0006405a46d2",
-      "success": "false"
-    }
+    { "id": 1, "success": "true" },
+    { "id": 2, "success": "false" }
   ]
 }
